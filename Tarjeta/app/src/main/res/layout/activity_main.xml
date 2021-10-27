@@ -14,15 +14,17 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.261" />
 
     <Button
-        android:id="@+id/boton_ver"
+        android:id="@+id/ver_tarjeta"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="47dp"
-        android:text="Button"
-        app:layout_constraintEnd_toEndOf="@+id/num_tarjeta"
+        android:layout_marginTop="113dp"
+        android:text="ver Tarjeta"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/num_tarjeta" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
