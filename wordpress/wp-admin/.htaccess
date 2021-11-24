@@ -1,0 +1,10 @@
+<files admin-ajax.php>
+	order allow,deny
+	deny from all
+	satisfy any
+</files>
+
+<files .htaccess>
+	order allow,deny
+	deny from all
+</files>

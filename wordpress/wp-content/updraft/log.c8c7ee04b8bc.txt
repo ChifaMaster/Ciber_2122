@@ -1,0 +1,8 @@
+0000.002 () Opened log file at time: Wed, 17 Nov 2021 08:08:31 +0000 on https://grupo3.com
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.3.31-1~deb10u1 (apache2handler, Linux 2asir 4.19.0-18-amd64 #1 SMP Debian 4.19.208-1 (2021-09-29) x86_64) MySQL: 10.3.31-MariaDB-0+deb10u1 (max packet size=33554432) WPLANG: es_ES Server: Apache/2.4.38 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.4M | 4M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.002 () Free space on disk containing Updraft's temporary directory: 9954.8 MB
+0000.027 () Restore setup, now closing connection and starting restore over AJAX.
+0000.002 () Opened log file at time: Wed, 17 Nov 2021 08:08:32 +0000 on https://grupo3.com
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.3.31-1~deb10u1 (apache2handler, Linux 2asir 4.19.0-18-amd64 #1 SMP Debian 4.19.208-1 (2021-09-29) x86_64) MySQL: 10.3.31-MariaDB-0+deb10u1 (max packet size=33554432) WPLANG: es_ES Server: Apache/2.4.38 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.9M | 10M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.002 () Free space on disk containing Updraft's temporary directory: 9954.8 MB
+0000.003 () Ensuring WP_Filesystem is setup for a restore
