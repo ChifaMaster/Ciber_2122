@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Proyecto_Final_Grupo3</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Perfil</string>
+    <string name="title_dashboard">Tarjeta</string>
+    <string name="title_notifications">Gastos</string>
+    <string name="title_informacion">Información</string>
+    <string-array name="desplazamiento">
+        <item>Coche</item>
+        <item>Taxi</item>
+        <item>Tren</item>
+        <item>Metro</item>
+        <item>Autobus</item>
+    </string-array>
+    <string-array name="tipo_tarjeta">
+        <item>Europea</item>
+        <item>Internacional</item>
+    </string-array>
+
+</resources>
